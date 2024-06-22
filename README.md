@@ -1,6 +1,6 @@
 This Trading algorithm trades GBPJPY. It is deployed through metatrader 5, and works solely on the pair of GBPJPY.
 
-The strategy takes into account key levels in GBPJPY's price, specifically price levels that end in .000, .200, .500, .800, which are adjustable within the settings. ![image](https://github.com/Ruler101/Algorithmic-Trading-Bot/assets/16788369/f2069047-374e-469d-b745-7772171b522d)
+The strategy takes into account key levels in GBPJPY's price among other things, specifically price levels that end in .000, .200, .500, .800, which are adjustable within the settings. ![image](https://github.com/Ruler101/Algorithmic-Trading-Bot/assets/16788369/f2069047-374e-469d-b745-7772171b522d)
 These key levels are all displayed on the graph at the start of trading:
 ![image](https://github.com/Ruler101/Algorithmic-Trading-Bot/assets/16788369/367a0515-1417-4181-b960-2de4c41424fd)
 
